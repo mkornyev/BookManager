@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  publisher: one
+  proposal_date: 2019-02-05
+  contract_date: 2019-02-05
+  published_date: 2019-02-05
+  units_sold: 1
+
+two:
+  title: MyString
+  publisher: two
+  proposal_date: 2019-02-05
+  contract_date: 2019-02-05
+  published_date: 2019-02-05
+  units_sold: 1
